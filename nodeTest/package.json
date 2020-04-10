@@ -10,5 +10,11 @@
     "test"
   ],
   "author": "akash konda",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^1.9.1",
+    "lite-server": "^2.5.4",
+    "popper.js": "^1.16.0"
+  }
 }
