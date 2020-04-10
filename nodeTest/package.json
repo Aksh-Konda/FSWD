@@ -4,7 +4,7 @@
   "description": "it is a test folder for learning node",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "start lite-server"
   },
   "keywords": [
     "test"
