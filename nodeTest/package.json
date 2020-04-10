@@ -1,0 +1,14 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "it is a test folder for learning node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "akash konda",
+  "license": "MIT"
+}
